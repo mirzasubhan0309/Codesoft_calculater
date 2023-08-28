@@ -1,0 +1,107 @@
+body
+{
+    margin:0;
+    padding:0
+}
+article
+{
+    width:400px;
+    height:420px;
+    margin:0 auto;
+    background:#214478;
+    margin-top:30px;
+    border-radius:30px
+}
+article header
+{
+    width:90%;
+    height:100px;
+    position:relative;
+    top:20px;
+    margin-left:5%;
+    border:2px solid white;
+    border-radius:20px;
+}
+article header input
+{
+    width:94%;
+    margin-left:3%;
+    height:78px;
+    margin-top:10px;
+    border-radius:20px;
+    border:0;
+    font-size:30px;
+    outline:none
+}
+article section
+{
+    width:95%;
+    height:271px;
+    border:2px solid white;
+    margin-left:2.1%;
+    margin-top:30px;
+    border-radius:20px;
+}
+article section .first
+{
+    margin-top:10px;
+}
+article section input
+{
+    font-size:39px;
+    padding-left:15px;
+    padding-right:15px;
+    border-radius:11px;
+    border:0;
+    background:white;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left:18px; 
+    outline:none;
+}
+article section .slach
+{
+    padding-left:20px;
+    padding-right:20px;
+}
+article section .slach2
+{
+    height:54px;
+    box-sizing:border-box;
+    padding-top:0px;
+    padding-bottom:3px;
+    position:relative;
+    bottom:2px;
+    padding-left:18px;
+    padding-right:18px;
+}
+article section .times
+{
+    padding-left:17.5px;
+    padding-right:17.5px
+}
+article section .zero
+{
+    padding-right:52px;
+    padding-left:53px;
+}
+article section .point
+{
+    padding-left:21px;
+    padding-right:21px;
+}
+article section .equal
+{
+    padding-right:50px;
+    padding-left:50px;
+}
+#clear
+{
+    padding-left:11px;
+    padding-right:11px;
+}
+#del1
+{
+    padding-left: 11px;
+    padding-right: 10px;
+}
